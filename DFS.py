@@ -11,8 +11,8 @@
 # 1. Knowing the initial state and the desired
 #    final states, DFS performs a blind search
 #    on the graph to find one of the final states.
-# 2. He chooses to expand the whole-front with the 
-#    situation located deeper in the search tree.
+# 2. It chooses to expand the set-front with the 
+#    state located deeper in the search tree.
 # 3. It has a Stack structure.
 
 
