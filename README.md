@@ -20,6 +20,7 @@ The implementation of each algorithm returns:
 - The path followed from the initial node to the target node.
   
 - All nodes in order visited by the algorithm, regardless of whether they belong to the solution path.
+
 ## Run Algorithms
 
 Run *BFS* algorithm:
@@ -46,6 +47,6 @@ py DFS.py
 2. It chooses to expand the set-front with the state located deeper in the search tree.
 3. It has a Stack structure.
 
-**Graph:**
+## Graph
 
 <img src="Graph.png" width='500px'>
